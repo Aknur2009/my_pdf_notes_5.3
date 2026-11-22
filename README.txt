@@ -1,0 +1,1 @@
+GitHub репозиторийінің түбіріне index.html, manifest.webmanifest, icon-192.png, icon-512.png файлдарын салыңыз. Ескі index.html файлын ауыстырыңыз. GitHub Pages жаңарған соң Android Chrome арқылы сайтты ашып, мәзірден Add to Home screen таңдаңыз. Браузер деректерін тазаламаңыз. Бұл нұсқа 5.3 PDF логикасын өзгертпейді.
